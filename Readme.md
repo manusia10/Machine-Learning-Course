@@ -1,7 +1,3 @@
 # Machine Learning Course
 
-Repository สำหรับรวบรวมเนื้อหาและไฟล์ประกอบการเรียนรู้ด้าน Machine Learning
-
-## เกี่ยวกับโปรเจกต์
-
-เพิ่มรายละเอียดเกี่ยวกับเนื้อหา แบบฝึกหัด และวิธีใช้งาน repository นี้ได้ที่นี่
+Repository สำหรับรวบรวมเนื้อหาและไฟล์เรียนในวิชา Machine Learning
